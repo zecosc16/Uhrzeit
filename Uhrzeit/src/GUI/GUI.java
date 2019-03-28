@@ -38,7 +38,6 @@ public class GUI extends javax.swing.JFrame {
         p1.add(l);
         p1.add(c);
         new Thread(c).start();
-        
     }
 
     /**
